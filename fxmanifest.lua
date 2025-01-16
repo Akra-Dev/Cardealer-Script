@@ -2,7 +2,7 @@ fx_version('bodacious')
 game('gta5')
 
 author 'Akra'
-description 'Cradealer'
+description 'Cardealer'
 version '1.0'
 
 shared_scripts {
@@ -10,7 +10,7 @@ shared_scripts {
 }
 
 client_scripts {
-  'RageUIv6/RMenu.lua',
+  	'RageUIv6/RMenu.lua',
 	'RageUIv6/menu/RageUI.lua',
 	'RageUIv6/menu/Menu.lua',
 	'RageUIv6/menu/MenuController.lua',
@@ -20,8 +20,12 @@ client_scripts {
 	'RageUIv6/menu/panels/*.lua',
 	'RageUIv6/menu/panels/*.lua',
 	'RageUIv6/menu/windows/*.lua',
-  ---------------------
+ 	---------------------
 	------ Client -------
 	---------------------
+	'client.lua',
   
+}
+server_scripts {
+	'server.lua'
 }
