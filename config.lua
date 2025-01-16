@@ -1,5 +1,7 @@
 Config = {
-   Get = {
+	PlateLetters = 4,
+	PlateNumbers = 4,
+	Get = {
 		ESX = "esx:getSharedObject",
   		Marker = {
   			Type = 2,
@@ -7,8 +9,8 @@ Config = {
   			Color = {130,0,184},
   			Rotation = 180.0,
   		},
-    },
-  Concess = {
+	},
+	Concess = {
 		pos = {vector3(-35.2910, -1108.5481, 26.4223)},
 	},
 
