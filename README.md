@@ -10,5 +10,5 @@
          /:/  /       |:|  |        |:|  |         /:/  /   
          \/__/         \|__|         \|__|         \/__/    
                         
-                        -Cardealer Scripy
+                        -Cardealer Script
                         -Made by Akra
