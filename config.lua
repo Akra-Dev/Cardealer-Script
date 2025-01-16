@@ -1,5 +1,6 @@
 Config = {
    Get = {
+		ESX = "esx:getSharedObject",
   		Marker = {
   			Type = 2,
   			Size = {0.2, 0.2, 0.2},
